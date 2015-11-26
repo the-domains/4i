@@ -1,6 +1,6 @@
 name: 4i
 favicon: null
-layout_spectrum: 0.01619
+layout_spectrum: 0.49662
 typography_spectrum: 0.4954
 title: Beta Test Site
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.9698015260510147
+    - '#e9eaee'
+    - '#4d67a0'
+    - '#004b1c'
+    - '#f90102'
+    - '#00affb'
+  brandStrength: 0.5
   lightness: 0.21566538466140628
   saturation: 0.3302808851003647
   rhythmicContrast: 0.6038902823347598
